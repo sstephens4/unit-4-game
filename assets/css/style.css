@@ -1,0 +1,67 @@
+body {
+    background: url("../images/crystal.png");
+}
+
+header {
+    background-color: palegreen;
+    width: 250px;
+    height: 100px;
+    text-align: center;
+    font-size: 32px;
+    padding-top: 2px;
+    text-decoration: underline;
+    border: solid black 3px;
+    
+}
+
+.instructions {
+    background-color: indianred;
+    width: 400px;
+    height: 400px;
+    padding: 6px 15px 6px 15px;
+    font-weight: 100px;
+    border: solid black 3px;
+}
+
+.randomNumber {
+    background-color: palevioletred;
+    width: 200px;
+    height: 150px;
+    padding-left: 4px;
+    font-size: 25px;
+    border: solid black 3px;
+}
+
+.winsLosses {
+    background-color: turquoise;
+    color: black;
+    font-size: 22px;
+    border: solid black 3px;
+    margin-top: -174px;
+    margin-right: 1025px;
+    padding-left: 4px;
+    padding-right: 4px;
+    width: 150px;
+    height: 150px;
+    float: right;
+}
+
+
+
+.totalScore {
+    background-color: violet;
+    border: solid black 3px;
+    width: 350px;
+    padding-left: 4px;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.userTotal {
+    background-color: violet; 
+    width: 350px;
+    height: 150px;
+    padding-left: 6px;
+    border: solid black 3px;
+    font-size: 24px;
+}
