@@ -10,7 +10,7 @@ header {
     font-size: 32px;
     padding-top: 2px;
     text-decoration: underline;
-    border: solid black 3px;
+    border: solid black 5px;
     
 }
 
@@ -20,7 +20,7 @@ header {
     height: 400px;
     padding: 6px 15px 6px 15px;
     font-weight: 100px;
-    border: solid black 3px;
+    border: solid black 5px;
 }
 
 .randomNumber {
@@ -29,14 +29,14 @@ header {
     height: 150px;
     padding-left: 4px;
     font-size: 25px;
-    border: solid black 3px;
+    border: solid black 5px;
 }
 
 .winsLosses {
     background-color: turquoise;
     color: black;
     font-size: 22px;
-    border: solid black 3px;
+    border: solid black 5px;
     margin-top: -174px;
     margin-right: 1025px;
     padding-left: 4px;
@@ -46,11 +46,28 @@ header {
     float: right;
 }
 
+#crystal1{
+    border: solid black 5px;
+}
+
+#crystal2{
+    border: solid black 5px;
+}
+
+#crystal3{
+    border: solid black 5px;
+}
+
+#crystal4{
+    border: solid black 5px;
+}
+    
+
 
 
 .totalScore {
     background-color: violet;
-    border: solid black 3px;
+    border: solid black 5px;
     width: 350px;
     padding-left: 4px;
     font-size: 20px;
@@ -62,6 +79,6 @@ header {
     width: 350px;
     height: 150px;
     padding-left: 6px;
-    border: solid black 3px;
+    border: solid black 5px;
     font-size: 24px;
 }
